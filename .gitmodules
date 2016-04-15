@@ -1,0 +1,3 @@
+[submodule "themes/lared"]
+	path = themes/lared
+	url = git@github.com:reneisrael/hexo-theme-hueman-lared.git
