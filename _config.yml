@@ -14,9 +14,9 @@ timezone: America/Mexico_City
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://laredsemanario.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
-
+# :year/:month/:day/
 # Directory
 source_dir: source
 public_dir: public
@@ -69,4 +69,4 @@ sitemap:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
+  type:
