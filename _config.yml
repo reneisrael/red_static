@@ -66,6 +66,12 @@ pagination_dir: page
 theme: hueman
 sitemap:
   path: sitemap.xml
+
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 0
+  hub:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
