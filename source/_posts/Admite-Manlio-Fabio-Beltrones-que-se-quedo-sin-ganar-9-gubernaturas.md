@@ -1,11 +1,10 @@
----
 title: Admite Manlio Fabio Beltrones que se quedó sin ganar 9 gubernaturas
 tags:
-  - elecciones
   - PRI
+  - elecciones
 categories:
   - Nacional
-date: 2016-06-06 09:46:12
+date: 2016-06-06 09:46:00
 ---
 ![](https://res.cloudinary.com/pidmx/image/upload/v1465224414/Elecci-Quintana-Roo-2035010_cahq1c.jpg)
 
