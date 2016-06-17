@@ -76,7 +76,7 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: ssh://git@github.com:reneisrael/red_static.git
+  repo: git@github.com:reneisrael/red_static.git
   branch: master
 #  type: git
 #  repo: ssh://git@eloro.mx:1978/home/git/lared.git
