@@ -79,5 +79,5 @@ deploy:
 #  repo: git@github.com:reneisrael/red_static.git
 #  branch: master
   type: git
-  repository: git@eloro.mx:1978/home/git/lared.git
-  branch: master
+  repository: ssh://git@eloro.mx:1978/home/git/lared.git
+#  branch: master
