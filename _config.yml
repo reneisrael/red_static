@@ -79,3 +79,4 @@ deploy:
 #  repo: https://github.com/reneisrael/reneisrael.github.io.git
   type: git
   repo: ssh://git@eloro.mx:1978/home/git/lared.git
+  branch: master
